@@ -3,7 +3,7 @@
 
 ## ⚡ Hello World! I'm Mohammed. I was a Teacher, now I'm in Tech! ⚡
 
-#### 🔭 I'm currently working on building a Personality Test web-app that will contain some beautiful CSS and Sass animations. 🔭
+#### 🔭 I'm currently working on building a full-stack web application with Python and Typescript that will allow users to manage their subscriptions with an easy click of a button. 🔭
 
 #### 🌱 I'm also learning Kotlin and would love to collaborate on some open-source Mobile Applications using Android Studio! 🌱
 
